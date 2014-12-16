@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- アクションバー -->
+        <item name="android:actionBarStyle">@style/CustomActionBarStyle</item>
+    </style>
+
+
+</resources>

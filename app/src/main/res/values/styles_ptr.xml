@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    かっこよいので実装したかったが、いったん未実装のまま放置して今度やります。
+    itemタグの名前はどうでもいいらしい。
+-->
+<resources>
+    <!--<style name="Widget.Custom.PtrHeader" parent="android:Widget">-->
+        <!--&lt;!&ndash; ヘッダーの背景色 &ndash;&gt;-->
+        <!--<item name="ptrHeaderBackground">@color/bg_color</item>-->
+    <!--</style>-->
+
+</resources>

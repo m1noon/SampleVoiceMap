@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- assetsフォルダ下のファイル名を管理します。 -->
+<resources>
+
+    <string name="assets_font_ameba_symbol">font/ameba_symbols_1.0.17.ttf</string>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="route_color">#ff3333</color>
+    <color name="bg_color">#f2f2f0</color>
+    <color name="bg_actionbar">#3e3e3e</color>
+    <color name="symbol_green">#FF4DAC26</color>
+    <color name="symbol_text_black">#2F2F2F</color>
+    <color name="symbol_text_white">#f0f0f0</color>
+    <color name="bg_loading_black">#2F2F2F</color>
+    <color name="white_text">#f7f7f7</color>
+</resources>
